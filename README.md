@@ -1,7 +1,7 @@
 <h1 align="left">E-Commerce Store 🛒</h1>
 
 Project Link 
-[MERN E-COMMERCE]([https://mern-ecommerce-rrkv.onrender.com])
+[MERN E-COMMERCE](https://mern-ecommerce-rrkv.onrender.com)
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
